@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Wed May 29 19:48:41 2024
+# Process ID: 3128
+# Current directory: C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/dcd12_4
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent5828 C:\Adelin\Anul 1\SEM 2\PSN\LIFT_new\dcd12_4\dcd12_4.xpr
+# Log file: C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/dcd12_4/vivado.log
+# Journal file: C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/dcd12_4\vivado.jou
+# Running On: DESKTOP-E9DD1U9, OS: Windows, CPU Frequency: 2592 MHz, CPU Physical cores: 6, Host memory: 17012 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/dcd12_4/dcd12_4.xpr}
+update_compile_order -fileset sources_1

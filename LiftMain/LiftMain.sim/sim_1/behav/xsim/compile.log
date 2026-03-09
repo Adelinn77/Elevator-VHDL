@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/stirc/Documents/University/PSN/LiftInProgress/DivizorFrecventa/DivizorFrecventa.srcs/sources_1/new/DivizorFrecventa.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'DivizorFrecventa'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/stirc/Documents/University/PSN/LiftInProgress/LiftMain/LiftMain.srcs/sources_1/new/LiftMain.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'LiftMain'

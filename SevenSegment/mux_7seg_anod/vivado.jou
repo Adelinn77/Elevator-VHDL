@@ -1,0 +1,73 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Mon May 20 18:12:04 2024
+# Process ID: 3800
+# Current directory: C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/mux_7seg_anod
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent3200 C:\Adelin\Anul 1\SEM 2\PSN\LIFT_new\mux_7seg_anod\mux_7seg_anod.xpr
+# Log file: C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/mux_7seg_anod/vivado.log
+# Journal file: C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/mux_7seg_anod\vivado.jou
+# Running On: DESKTOP-E9DD1U9, OS: Windows, CPU Frequency: 2592 MHz, CPU Physical cores: 6, Host memory: 17012 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/mux_7seg_anod/mux_7seg_anod.xpr}
+update_compile_order -fileset sources_1
+close_project
+create_project dcd_et_curent {C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/dcd_et_curent} -part xc7a100tcsg324-1
+file mkdir C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/dcd_et_curent/dcd_et_curent.srcs/sources_1/new
+file mkdir C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/dcd_et_curent/dcd_et_curent.srcs/sources_1/new
+file mkdir C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/dcd_et_curent/dcd_et_curent.srcs/sources_1/new
+file mkdir {C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/dcd_et_curent/dcd_et_curent.srcs/sources_1/new}
+close [ open {C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/dcd_et_curent/dcd_et_curent.srcs/sources_1/new/dcd_et.vhd} w ]
+add_files {{C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/dcd_et_curent/dcd_et_curent.srcs/sources_1/new/dcd_et.vhd}}
+add_files -fileset constrs_1 -norecurse {{C:/Adelin/Anul 1/SEM 2/PSN/constraints.xdc}}
+update_compile_order -fileset sources_1
+close_project
+create_project dcd_usi {C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/dcd_usi} -part xc7a100tcsg324-1
+file mkdir C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/dcd_usi/dcd_usi.srcs/sources_1/new
+file mkdir C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/dcd_usi/dcd_usi.srcs/sources_1/new
+file mkdir C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/dcd_usi/dcd_usi.srcs/sources_1/new
+file mkdir {C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/dcd_usi/dcd_usi.srcs/sources_1/new}
+close [ open {C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/dcd_usi/dcd_usi.srcs/sources_1/new/dcd_usi.vhd} w ]
+add_files {{C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/dcd_usi/dcd_usi.srcs/sources_1/new/dcd_usi.vhd}}
+add_files -fileset constrs_1 -norecurse {{C:/Adelin/Anul 1/SEM 2/PSN/constraints.xdc}}
+update_compile_order -fileset sources_1
+close_project
+open_project {C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/numarator_lift/numarator_lift.xpr}
+update_compile_order -fileset sources_1
+launch_simulation
+source sim_numarator1.tcl
+close_sim
+launch_simulation
+source sim_numarator1.tcl
+close_sim
+launch_simulation
+source sim_numarator1.tcl
+close_sim
+close_project
+create_project counter_7seg {C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/counter_7seg} -part xc7a100tcsg324-1
+file mkdir C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/counter_7seg/counter_7seg.srcs/sources_1/new
+file mkdir C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/counter_7seg/counter_7seg.srcs/sources_1/new
+file mkdir C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/counter_7seg/counter_7seg.srcs/sources_1/new
+file mkdir {C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/counter_7seg/counter_7seg.srcs/sources_1/new}
+close [ open {C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/counter_7seg/counter_7seg.srcs/sources_1/new/counter_7seg.vhd} w ]
+add_files {{C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/counter_7seg/counter_7seg.srcs/sources_1/new/counter_7seg.vhd}}
+add_files -fileset constrs_1 -norecurse {{C:/Adelin/Anul 1/SEM 2/PSN/constraints.xdc}}
+update_compile_order -fileset sources_1
+file mkdir C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/counter_7seg/counter_7seg.srcs/sim_1/new
+file mkdir C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/counter_7seg/counter_7seg.srcs/sim_1/new
+file mkdir C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/counter_7seg/counter_7seg.srcs/sim_1/new
+file mkdir C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/counter_7seg/counter_7seg.srcs/sim_1/new
+file mkdir C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/counter_7seg/counter_7seg.srcs/sim_1/new
+set_property SOURCE_SET sources_1 [get_filesets sim_1]
+file mkdir C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/counter_7seg/counter_7seg.srcs/sim_1/new
+file mkdir {C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/counter_7seg/counter_7seg.srcs/sim_1/new}
+close [ open {C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/counter_7seg/counter_7seg.srcs/sim_1/new/sim_counter_7seg.vhd} w ]
+add_files -fileset sim_1 {{C:/Adelin/Anul 1/SEM 2/PSN/LIFT_new/counter_7seg/counter_7seg.srcs/sim_1/new/sim_counter_7seg.vhd}}
+update_compile_order -fileset sim_1
+update_compile_order -fileset sim_1
+launch_simulation
+source sim_counter_7seg.tcl
+close_sim

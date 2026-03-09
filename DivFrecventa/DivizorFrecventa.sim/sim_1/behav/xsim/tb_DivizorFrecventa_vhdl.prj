@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../DivizorFrecventa.srcs/sources_1/new/DivizorFrecventa.vhd" \
+"../../../../DivizorFrecventa.srcs/sim_1/new/SimDivizor.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "DivizorFrecventa_tb_behav" "xil_defaultlib.DivizorFrecventa_tb" -log "elaborate.log" 

@@ -1,0 +1,22 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/stirc/Documents/University/PSN/LiftInProgress/7Segment/DigitToSevenSegment/DigitToSevenSegment.srcs/sources_1/new/DigitToSevenSegment.vhd,1717087107,vhdl,,,,digittosevensegment,,,,,,,,
+C:/Users/stirc/Documents/University/PSN/LiftInProgress/7Segment/SevenSegment/SevenSegment.srcs/sources_1/new/SevenSegment.vhd,1717087110,vhdl,,,,sevensegment,,,,,,,,
+C:/Users/stirc/Documents/University/PSN/LiftInProgress/7Segment/counter_7seg/counter_7seg.srcs/sources_1/new/counter_7seg.vhd,1717145113,vhdl,,,,counter_7seg,,,,,,,,
+C:/Users/stirc/Documents/University/PSN/LiftInProgress/7Segment/dcd_et_curent/dcd_et_curent.srcs/sources_1/new/dcd_et.vhd,1717087107,vhdl,,,,dcd_et,,,,,,,,
+C:/Users/stirc/Documents/University/PSN/LiftInProgress/7Segment/dcd_usi/dcd_usi.srcs/sources_1/new/dcd_usi.vhd,1717152070,vhdl,,,,dcd_usi,,,,,,,,
+C:/Users/stirc/Documents/University/PSN/LiftInProgress/7Segment/mux8_1afisaj/mux8_1afisaj.srcs/sources_1/new/mux8_1afisaj.vhd,1717087107,vhdl,,,,mux8_1afisaj,,,,,,,,
+C:/Users/stirc/Documents/University/PSN/LiftInProgress/7Segment/mux_7seg_anod/mux_7seg_anod.srcs/sources_1/new/mux8_1.vhd,1717087107,vhdl,,,,mux8_1,,,,,,,,
+C:/Users/stirc/Documents/University/PSN/LiftInProgress/DivizorFrecventa/DivizorFrecventa.srcs/sources_1/new/DivizorFrecventa.vhd,1717488448,vhdl,,,,divizorfrecventa,,,,,,,,
+C:/Users/stirc/Documents/University/PSN/LiftInProgress/GetCMD/GetCMD.srcs/sources_1/new/GetCMD.vhd,1717149411,vhdl,,,,getcmd,,,,,,,,
+C:/Users/stirc/Documents/University/PSN/LiftInProgress/LiftControl/LiftControl.srcs/sources_1/new/LiftControl.vhd,1717387661,vhdl,,,,liftcontrol,,,,,,,,
+C:/Users/stirc/Documents/University/PSN/LiftInProgress/LiftMain/LiftMain.srcs/sim_1/new/LiftSimulare.vhd,1717326044,vhdl,,,,liftsimulare,,,,,,,,
+C:/Users/stirc/Documents/University/PSN/LiftInProgress/LiftMain/LiftMain.srcs/sources_1/new/LiftMain.vhd,1717388318,vhdl,,,,liftmain,,,,,,,,
+C:/Users/stirc/Documents/University/PSN/LiftInProgress/NumaratorStandBy/NumaratorStandBy.srcs/sources_1/new/counter_stand_by.vhd,1717326008,vhdl,,,,counter_stand_by,,,,,,,,
+C:/Users/stirc/Documents/University/PSN/LiftInProgress/dcd12_4/dcd12_4.srcs/sources_1/new/dcd12_4.vhd,1717141719,vhdl,,,,dcd12_4,,,,,,,,
+C:/Users/stirc/Documents/University/PSN/LiftInProgress/numarator_lift/numarator_lift.srcs/sources_1/new/counter.vhd,1717321827,vhdl,,,,counter_etaj,,,,,,,,
+C:/Users/stirc/Documents/University/PSN/LiftInProgress/registru/registru.srcs/sources_1/new/registru.vhd,1717149850,vhdl,,,,registru,,,,,,,,
+C:/Users/stirc/Documents/University/PSN/LiftInProgress/registru_2biti/registru_2biti.srcs/sources_1/new/registru_sens.vhd,1717143524,vhdl,,,,registru_sens,,,,,,,,
+C:/Users/stirc/Documents/University/PSN/LiftInProgress/registru_et_crt/registru_et_crt.srcs/sources_1/new/registru_et_crt.vhd,1717150149,vhdl,,,,registru_et_crt,,,,,,,,

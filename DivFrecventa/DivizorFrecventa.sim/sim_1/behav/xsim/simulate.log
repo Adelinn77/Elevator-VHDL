@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Failure: Simulation Ended
+Time: 10000100 ns  Iteration: 0  Process: /tb_DivizorFrecventa/stim_proc  File: C:/Users/stirc/Documents/University/PSN/LIFT/DivizorFrecventa/DivizorFrecventa.srcs/sim_1/new/SimDivizor.vhd
+$finish called at time : 10000100 ns : File "C:/Users/stirc/Documents/University/PSN/LIFT/DivizorFrecventa/DivizorFrecventa.srcs/sim_1/new/SimDivizor.vhd" Line 72

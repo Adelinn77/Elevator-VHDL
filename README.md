@@ -1,4 +1,4 @@
-🛗 VHDL Elevator Controller
+VHDL Elevator Controller
 Welcome to the Elevator-VHDL repository! This project a fully functional elevator control system implemented in VHDL, simulated, and successfully tested on an FPGA development board.
 
 📝 Project Overview
